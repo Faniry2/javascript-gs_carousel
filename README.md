@@ -87,9 +87,8 @@ Option | Type | Default | Description
 slideToScroll| Integer | 1 | This is the increment step of the scroll, for example if slidesToScroll is equal to 1 the slides will be scrolled 1 by 1 if equal to 2 they will be scrolled 2 by 2 and etc.
 slideToShow | Int | 1 | Number of slides to display on the screen.
 pagination | boolean | false | Enable pagination.
-infinite | boolean | false ] Enable infinite looping.
-center |  boolean | false |  Enable centered view with partial prev/next slides. 
-Use it with numbered slidesToShow equal to 3.
+infinite | boolean | false | Enable infinite looping.
+center |  boolean | false |  Enable centered view with partial prev/next slides. Use it with numbered slidesToShow equal to 3.
 dragMode| boolean | false | Enables desktop dragging.
 autoCarousel | boolean | false | Enables auto scrolliong.
 
