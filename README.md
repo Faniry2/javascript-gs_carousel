@@ -81,6 +81,7 @@ When complete, your HTML should look something like:
  </body>
 </html>
 ```
+## Settings
 Option | Type | Default | Description
 ------ | ---- | ------- | -----------
 slideToScroll| Integer | 1 | This is the increment step of the scroll, for example if slidesToScroll is equal to 1 the slides will be scrolled 1 by 1 if equal to 2 they will be scrolled 2 by 2 and etc.
